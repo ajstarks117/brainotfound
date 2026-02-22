@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import titleBg from '../../Assets/dark.png';
+import titleBg from '../../assets/dark.png';
 
 const TitleScreen = ({ onStartDuel, onStartStory, onLeaderboard, onDashboard, onFriendDuel }) => {
   return (
