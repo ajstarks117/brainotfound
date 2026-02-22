@@ -5,7 +5,7 @@ import {
     connectSocket, disconnectSocket, createRoom, joinRoom,
     playerReady, onEvent, isConnected,
 } from '../engine/socketService';
-import lobbyBg from '../../../assets/lobby.png';
+import lobbyBg from '../../../Assets/lobby.png';
 
 const font = "'Press Start 2P', cursive";
 
