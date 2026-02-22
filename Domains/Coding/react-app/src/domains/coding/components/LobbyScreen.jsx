@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { useCodingStore } from '../store/useCodingStore';
-import lobbyBg from '../../../assets/lobby.png';
+import lobbyBg from '../../../Assets/lobby.png';
 
 const LobbyScreen = ({ onBack, onStartMatchmaking }) => {
     const { playerName, ratings } = useCodingStore();
