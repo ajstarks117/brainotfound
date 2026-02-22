@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { generateQuestion } from '../engine/questionGenerator';
 import { evaluateSubmission } from '../engine/evaluator';
 import { evaluateWithJudge0 } from '../engine/judge0Service';
-import arenaBg from '../../../assets/DuelArena.png';
+import arenaBg from '../../../Assets/DuelArena.png';
 
 const TIME_BY_DIFFICULTY = { 1: 180, 2: 240, 3: 300 };
 
