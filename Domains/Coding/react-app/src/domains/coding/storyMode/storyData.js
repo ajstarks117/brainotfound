@@ -1,7 +1,7 @@
-import serverRoom from '../../../assets/serverroom.png';
-import commandCenter from '../../../assets/commandcenter.png';
-import meltdown from '../../../assets/meltdown.png';
-import alarm from '../../../assets/alarm.png';
+import serverRoom from '../../../Assets/serverroom.png';
+import commandCenter from '../../../Assets/commandcenter.png';
+import meltdown from '../../../Assets/meltdown.png';
+import alarm from '../../../Assets/alarm.png';
 
 export const storyData = {
     startNode: "node_1",
